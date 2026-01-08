@@ -53,4 +53,5 @@ All system activity is recorded via a dual-output Logging Module. This satisfies
 
 >Level WARNING/ERROR: Captures timeouts, connection resets, and security violations.
 
+
 >Persistence: Logs are stored in docs/proxy.log with high-resolution timestamps for post-incident analysis.
